@@ -21,4 +21,5 @@ A simple Simon Says memory game built with vanilla JavaScript.
 5. Game ends when you make a wrong move
 
 ## Live Demo
-[Add GitHub Pages link here after deployment]
+[🎮 Play Simon Says]
+https://abhishek-autade.github.io/Simon-says-game/
